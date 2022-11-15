@@ -1,0 +1,8 @@
+- (u/v)' = (u'v - uv') / v^2
+- (u^n)' = nu'u^(n-1)
+(uv)' = u'v + uv'
+(u/v)' = caca / v^2
+(u/v)' = (uv^-1)' = (uw)' with w = v^-1
+(v^-1)' = -1 * v'v^-2
+- IT'S WRONG
+- stfu
